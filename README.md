@@ -1,3 +1,3 @@
 # Study + Exiting
 
-스터디!
+깃 스터디!
